@@ -1,12 +1,17 @@
-## Metrics and Dimensions
-
-Sales: Total subscription sales from Basic, No Ads, and Live TV HUlu plans
-Subscription Regions: Midwest, Northeast, South, West
-Subscription Period: Annual, Monthly
-Subscription Type: Basic, No Ads, Live TV
+Hulu Subscription Analysis (2023-2023)
 
 https://public.tableau.com/app/profile/kevin.trivino/viz/HuluSubscriptionAnalysis/Dashboard1?publish=yes
 ![Screenshot 2024-07-24 at 11 59 32](https://github.com/user-attachments/assets/7752e1e9-031d-4878-beb9-cbfc832a59d3)
+
+## Metrics and Dimensions
+Sales: Total subscription sales from Basic, No Ads, and Live TV Hulu plans
+
+Subscription Regions: Midwest, Northeast, South, West
+
+Subscription Period: Annual, Monthly
+
+Subscription Type: Basic, No Ads, Live TV
+
 
 ---
 
