@@ -4,7 +4,7 @@ https://public.tableau.com/app/profile/kevin.trivino/viz/HuluSubscriptionAnalysi
 ![Screenshot 2024-07-24 at 11 59 32](https://github.com/user-attachments/assets/7752e1e9-031d-4878-beb9-cbfc832a59d3)
 
 ## Dataset
-Synthetic hulu dataset generated based on subscription and sales infromation from external sources such as news and media outlets.
+Synthetic hulu dataset generated based on subscription and sales infromation from external sources such as news and media outlets form 2022-2023.
 
 ## Metrics and Dimensions
 Sales: Total subscription sales from Basic, No Ads, and Live TV Hulu plans
