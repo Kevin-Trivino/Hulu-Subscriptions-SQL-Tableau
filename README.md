@@ -1,3 +1,5 @@
+Analyzing Hulu subscription trends from 2022-2023 to improve subscription count and overall subscription revenue.
+
 # Hulu Subscription Analysis (2023-2023)
 
 https://public.tableau.com/app/profile/kevin.trivino/viz/HuluSubscriptionAnalysis/Dashboard1?publish=yes
