@@ -3,7 +3,8 @@ Analyzing Hulu subscription trends from 2022-2023 to improve subscription count 
 # Hulu Subscription Analysis (2023-2023)
 
 https://public.tableau.com/app/profile/kevin.trivino/viz/HuluSubscriptionAnalysis/Dashboard1?publish=yes
-![Screenshot 2024-07-24 at 11 59 32](https://github.com/user-attachments/assets/7752e1e9-031d-4878-beb9-cbfc832a59d3)
+![Screenshot 2024-07-26 at 10 50 05](https://github.com/user-attachments/assets/10e5364d-0b1a-42c1-b265-d931978bd0a0)
+
 
 ## Dataset
 Synthetic hulu dataset generated based on subscription and sales infromation from external sources such as news and media outlets form 2022-2023.
